@@ -3,8 +3,7 @@
 ## 1. Title
 
 
-
-## 2. Abstract
+2. Abstract
 
 
 
