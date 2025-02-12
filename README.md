@@ -2,7 +2,7 @@
 
 
 ## 1. Title
-
+Prompt: Please evaluate the title of this doctorate of nursing practice scholarly project using the Squires 2.0 criteria and the course-specific criteria. 
 ```
 Does the title accurately reflect what you are doing for your project?
 Does the title contain an initiative to improve healthcare? 
@@ -10,9 +10,15 @@ Does the title contain the project type such as an Evidence-Based Quality Improv
 Project or a Needs Assessment or a Program Evaluation?
 ```
 
+### Please provide specific examples of how the title could be improved.
+
+```
+Please provide specific examples of how the author can improve the title.
+```
+
 ## 2. Abstract
 
-
+Prompt: Please evaluate the abstract of this doctorate of nursing practice scholarly project using the Squires 2.0 criteria and the course-specific criteria. 
 ```
 Does the abstract have a header for the following sections:
 Background
@@ -24,23 +30,34 @@ Conclusions
 Keywords
 ```
 
+```
+### Please provide specific examples of how the abstract could be improved.
+```
+
 ## 3. Problem Description
 
-Text goes here
+Prompt: Please evaluate the problem description section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
 
 ```
 Describe an overview of the local problem.  What is the nature of the practice or organizational problem?  What is the significance (the ‘so what’) or why do we care about this? 
 ```
+```
+Please provide specific examples of how the author can improve the problem description.
+```
 
 ## 4. Available Knowledge
 
-Text goes here
+Prompt: Please evaluate the available knowledge section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
 
 ```
 What do we currently know about the problem overall in general? 
 Cite previous studies to support the identified problem. 
-Are there any previous studies that use your same intervention? Synthesize and cite the literature in this section (3 pages maximum for problem description and available knowledge sections
+Are there any previous studies that use your same intervention? Synthesize and cite the literature in this section (3 pages maximum for problem description and available knowledge sections.
 
+```
+
+```
+Please provide specific examples of how the author can improve the available knowledge section of this manuscript.
 ```
 
 ## 5. Rationale
