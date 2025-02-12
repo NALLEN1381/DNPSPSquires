@@ -31,15 +31,18 @@ Keywords
 ```
 
 ```
-### Please provide specific examples of how the abstract could be improved.
+Please provide specific examples of how the abstract could be improved.
 ```
 
 ## 3. Problem Description
 
-Prompt: Please evaluate the problem description section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
+Prompt: Please evaluate the problem description section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria.
+Squires Guideline 2.0: Nature and significance of the local problem
+Course specific criteria:
+Describe an overview of the local problem.  What is the nature of the practice or organizational problem?  What is the significance (the ‘so what’) or why do we care about this?
 
 ```
-Describe an overview of the local problem.  What is the nature of the practice or organizational problem?  What is the significance (the ‘so what’) or why do we care about this? 
+How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed? "[Paste the text you want evaluated here.]"”
 ```
 ```
 Please provide specific examples of how the author can improve the problem description.
@@ -48,11 +51,12 @@ Please provide specific examples of how the author can improve the problem descr
 ## 4. Available Knowledge
 
 Prompt: Please evaluate the available knowledge section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
+Squires Guideline 2.0: Summary of what is currently known about the problem, including relevant previous studies
+Course specific criteria: What do we currently know about the problem overall in general? Cite previous studies to support the identified problem. 
+Are there any previous studies that use your same intervention? Synthesize and cite the literature in this section (3 pages maximum for problem description and available knowledge sections?
 
 ```
-What do we currently know about the problem overall in general? 
-Cite previous studies to support the identified problem. 
-Are there any previous studies that use your same intervention? Synthesize and cite the literature in this section (3 pages maximum for problem description and available knowledge sections.
+What evidence is cited in the following text to answer each of these questions? What is currently known about the problem in general, including relevant previous studies? Who is affected by the problem? What are the impacts of the problem? How does the problem affect those individuals? When is it a problem? Why is it a problem or why does the problem matter?  What are the costs or the other negative impacts of the problem? How prevalent is the problem or how many people are affected? Are there any existing trends that contribute to the problem? Are probable causes of the problem identified? Are there any formal standards related to this problem? How are the main concepts relevant to the problem defined? Is any supporting literature or evidence cited? What are effective interventions from the literature that are known to address this problem? "[Paste the text you want evaluated here.]"”
 
 ```
 
@@ -62,41 +66,47 @@ Please provide specific examples of how the author can improve the available kno
 
 ## 5. Rationale
 
-Text goes here
+Prompt: Please evaluate the rationale section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
+Squires 2.0 criteria: Informal or formal frameworks, models, concepts, and/or theories used to explain the problem, any reasons or assumptions that were used to develop the intervention(s), and reasons why the intervention(s) was expected to work.
+Course Specific Criteria: Describe the John Hopkins Evidenced-Based Practice Model used to improve your process or practice change—how the model guides you through the process. Broadly explain the main aspects or concepts of the model and how it aligns with your project, identifying the problem/gap/improvement needed, appraising & synthesizing evidence to develop the intervention (s), why you will use the rapid cycle of changes during implementation, and why the intervention(s) are expected to work (sustainability).
 
 ```
-Describe the John Hopkins Evidenced-Based Practice Model used to improve your process or practice change—how the model guides you through the process. Broadly explain the main aspects or concepts of the model and how it aligns with your project, identifying the problem/gap/improvement needed, appraising & synthesizing evidence to develop the intervention (s), why you will use the rapid cycle of changes during implementation, and why the intervention(s) are expected to work (sustainability).
+
+How well does the following text discuss each of these elements? Describe the John Hopkins Evidenced-Based Practice Model? What are the components of the John Hopkins Evidenced-Based Practice Model. What components of the John Hopkins Evidenced-Based Practice Model are used to develop the project intervention? What reasons or assumptions were used to develop the intervention? Why is the intervention expected to work? How will the John Hopkins Evidenced-Based Practice Model be used to guide the activities of your project? Describe how the John Hopkins Evidenced-Based Practice Model aligns with and guides the work on the project? Is any relevant literature cited? Is there any evidence this type of intervention may work? "[Paste the text you want evaluated here.]"”
 ```
 
 ## 6. Specific Aims
 
-Text goes here
+Please evaluate the Specific Aims section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
+Squires Guidelines 2.0 criteria: Purpose of the project and of this report
+Course Specific Criteria: Make this statement: The purpose of this Doctor of Nursing Practice scholarly project is…. . A secondary aim/purpose is …
 
 ```
-Make this statement: The purpose of this Doctor of Nursing Practice scholarly project is…. . A secondary aim/purpose is … 
+How well does the following text discuss each of these elements? What is the purpose of the project? What is the secondary purpose of the project? Are the purposes stated clearly stated? Does the purpose describe a practice change? Does the purpose address feasility, usability, and satisfaction? "[Paste the text you want evaluated here.]"
 ```
 
 ## 7. Context
 
-Text goes here
+Please evaluate the Context section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
+Squires Guidelines 2.0 criteria: Contextual elements considered important at the outset of introducing the intervention(s)
+Course Specific Criteria: Describe where the project will take place. Describe the setting of the project area (rural/urban), the location (clinic, school, hospital), the population (patients, nurses, other clinical staff, NPs, PAs, physicians, parents), the size of the population, or other items important to know before describing your intervention. Consider how your project may impact health equity; does it address certain social determinants of health (SDoH) or vulnerable/underserved populations, etc.
+Describe the leadership (nursing, physician). Describe whether or not other initiatives that are closely related to or potentially competing with (or supporting) your project are taking place.
+
 
 ```
-Describe where the project will take place. 
-Describe the setting of the project area (rural/urban), the location (clinic, school, hospital), the population (patients, nurses, other clinical staff, NPs, PAs, physicians, parents), the size of the population, or other items important to know before describing your intervention.  
-Consider how your project may impact health equity; does it address certain social determinants of health (SDoH) or vulnerable/underserved populations, etc.
-Describe the leadership (nursing, physician). 
-Describe whether or not other initiatives that are closely related to or potentially competing with (or supporting) your project are taking place. 
+How well does the following text discuss each of these elements? What is the setting where the project is taking place? What is the location of the project? Who are the beneficiaries of the project? How many participants will participate in the project? What are the impacts of the project on health equity? Does the project address social determinants of health or vulnerable/underserved participants? Is this project part of a larger project? Who are the sponsors of the project? Who are the team members working on the project? Who will be directly impacted by the project? Who may be indirectly impacted by the project? Are there any contextual factors that may impact the success of the project? Is any literature or supporting evidence cited? "[Paste the text you want evaluated here.]"” 
 
 ```
 
 ## 8. Interventions
 
-Text goes here
-
-```
-Describe your project in enough detail for someone to reproduce it. 
+Please evaluate the Intervention section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
+Squires Guidelines 2.0 criteria: Description of the intervention(s) in sufficient detail that others could reproduce it. Specifics of the team involved in the work
+Course Specific Criteria: Describe your project in enough detail for someone to reproduce it. 
 Describe the composition of the team/stakeholders doing the work; think of those helping to pull data/arrange meetings/maybe a director/project sponsor/etc. 
-Consider breaking down your study into phase one and describe what happened, then phase two, etc.  
+Consider breaking down your study into phase one and describe what happened, then phase two, etc. 
+```
+How well does the following text discuss each of these elements for each project objective? What is the name of the intervention?  What procedures, activities, or processes were used in the intervention? What materials were used for the intervention or training given to those who delivered the intervention? Who delivered the intervention? What was their expertise or background? Describe the mode of delivery of the intervention. Describe the location of where the intervention was delivered, including any necessary infrastructure. When was the intervention delivered and how often? Was the intervention tailored to any specific individuals? If so describe how. Was the intervention modified during the course of the study? If so, describe how. Describe the extent to which the intervention was delivered as planned. Here are the project objectives: "[Paste text describing each objective here.]" Here is the section text: "[Paste the text you want evaluated here.]"” 
 
 ```
 
