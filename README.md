@@ -4,13 +4,10 @@
 ## 1. Title
 Prompt: Please evaluate the title of this doctorate of nursing practice scholarly project using the Squires 2.0 criteria and the course-specific criteria. 
 ```
-Does the title accurately reflect what you are doing for your project?
-Does the title contain an initiative to improve healthcare? 
-Does the title contain the project type such as an Evidence-Based Quality Improvement
-Project or a Needs Assessment or a Program Evaluation?
+How well does the following text answer each of these questions? Does the title accurately reflect what you are doing for your project?
+Does the title contain an initiative to improve healthcare? Does the title contain the project type such as an Evidence-Based Quality Improvement
+Project or a Needs Assessment or a Program Evaluation? "[Paste the text you want evaluated here.]"
 ```
-
-### Please provide specific examples of how the title could be improved.
 
 ```
 Please provide specific examples of how the author can improve the title.
@@ -20,6 +17,7 @@ Please provide specific examples of how the author can improve the title.
 
 Prompt: Please evaluate the abstract of this doctorate of nursing practice scholarly project using the Squires 2.0 criteria and the course-specific criteria. 
 ```
+How well does the following text describe the evidenced-based quality improvement project?
 Does the abstract have a header for the following sections:
 Background
 Problem
@@ -42,7 +40,7 @@ Course specific criteria:
 Describe an overview of the local problem.  What is the nature of the practice or organizational problem?  What is the significance (the ‘so what’) or why do we care about this?
 
 ```
-How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed? "[Paste the text you want evaluated here.]"”
+How well does the following text answer each of these questions? What is the problem this evidenced-based quality improvement project addresses?  Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed? What is the evidence that this problem can be addressed with an evidenced-based quality improvement process? "[Paste the text you want evaluated here.]"
 ```
 ```
 Please provide specific examples of how the author can improve the problem description.
@@ -56,7 +54,7 @@ Course specific criteria: What do we currently know about the problem overall in
 Are there any previous studies that use your same intervention? Synthesize and cite the literature in this section (3 pages maximum for problem description and available knowledge sections?
 
 ```
-What evidence is cited in the following text to answer each of these questions? What is currently known about the problem in general, including relevant previous studies? Who is affected by the problem? What are the impacts of the problem? How does the problem affect those individuals? When is it a problem? Why is it a problem or why does the problem matter?  What are the costs or the other negative impacts of the problem? How prevalent is the problem or how many people are affected? Are there any existing trends that contribute to the problem? Are probable causes of the problem identified? Are there any formal standards related to this problem? How are the main concepts relevant to the problem defined? Is any supporting literature or evidence cited? What are effective interventions from the literature that are known to address this problem? "[Paste the text you want evaluated here.]"”
+How well does the following text discuss each of these elements? What evidence is cited in the following text to answer each of these questions? What is currently known about the problem in general, including relevant previous studies? Who is affected by the problem? What are the impacts of the problem? How does the problem affect those individuals? When is it a problem? Why is it a problem or why does the problem matter?  What are the costs or the other negative impacts of the problem? How prevalent is the problem or how many people are affected? Are there any existing trends that contribute to the problem? Are probable causes of the problem identified? Are there any formal standards related to this problem? How are the main concepts relevant to the problem defined? Is any supporting literature or evidence cited? What are effective interventions from the literature that are known to address this problem? "[Paste the text you want evaluated here.]"”
 
 ```
 
@@ -82,7 +80,7 @@ Squires Guidelines 2.0 criteria: Purpose of the project and of this report
 Course Specific Criteria: Make this statement: The purpose of this Doctor of Nursing Practice scholarly project is…. . A secondary aim/purpose is …
 
 ```
-How well does the following text discuss each of these elements? What is the purpose of the project? What is the secondary purpose of the project? Are the purposes stated clearly stated? Does the purpose describe a practice change? Does the purpose address feasility, usability, and satisfaction? "[Paste the text you want evaluated here.]"
+How well does the following text discuss each of these elements? What is the purpose of the project? What is the secondary purpose of the project? Are the purposes stated clearly stated? Does the purpose describe a practice or organizational change? Does the purpose address feasibility, usability, and satisfaction? "[Paste the text you want evaluated here.]"
 ```
 
 ## 7. Context
@@ -104,7 +102,7 @@ Please evaluate the Intervention section of this doctorate of nursing practice s
 Squires Guidelines 2.0 criteria: Description of the intervention(s) in sufficient detail that others could reproduce it. Specifics of the team involved in the work
 Course-Specific Criteria: Describe your project in enough detail for someone to reproduce it. Describe the composition of the team/stakeholders doing the work; think of those helping to pull data/arrange meetings/maybe a director/project sponsor/etc. Consider breaking down your project into phase one and describe what happened, then phase two, etc. 
 ```
-How well does the following text discuss each of these elements for each project objective? What is the name of the intervention?  What procedures, activities, or processes were used in the intervention? What materials were used for the intervention or training given to those who delivered the intervention? Who delivered the intervention? What was their expertise or background? Describe the mode of delivery of the intervention. Describe the location of where the intervention was delivered, including any necessary infrastructure. When was the intervention delivered and how often? Was the intervention tailored to any specific individuals? If so describe how. Was the intervention modified during the course of the study? If so, describe how. Describe the extent to which the intervention was delivered as planned. Here are the project objectives: "[Paste text describing each objective here.]" Here is the section text: "[Paste the text you want evaluated here.]"” 
+How well does the following text discuss each of these elements? What is the name of the intervention?  What procedures, activities, or processes were used in the intervention? What materials were used for the intervention or training given to those who delivered the intervention? Who delivered the intervention? What was their expertise or background? Describe the mode of delivery of the intervention. Describe the location of where the intervention was delivered, including any necessary infrastructure. When was the intervention delivered and how often? Was the intervention tailored to any specific individuals? If so describe how. Was the intervention modified during the course of the study? If so, describe how. Describe the extent to which the intervention was delivered as planned. Here are the project objectives: "[Paste text describing each objective here.]" Here is the section text: "[Paste the text you want evaluated here.]" 
 
 ```
 
@@ -116,7 +114,7 @@ Course-Specific Criteria: How are you evaluating your uptake of the improvement/
 
 
 ```
-How are you evaluating the uptake of the project or the practice change? How often are you collecting data so that rapid changes can be made? How often are you communicating with key stakeholders after the project is implemented? How often will you communicate with project participants once the project is implemented? Are you using surveys to evaluate the project? Are you using chart review to evaluate the practice change? Are you using discussion groups or individual interviews? When are you measuring practice changes? How are you measuring a practice change? When are you measuring feasibility, usability, and satisfaction? How are you measuring feasibility, usability and satisfaction? What is the process that is used to evaluate the project frequently? What is the process you will use to communicate ongoing changes to the project to the stakeholders as the project is being implemented?  How often will you communicate ongoing changes to the project to stakeholders once the project is being implemented? What are the steps you will use to evaluate your project? What are the expected outcomes of project?  
+How well does the following text discuss each of these elements? How are you evaluating the uptake of the project or the practice change? How often are you collecting data so that rapid changes can be made? How often are you communicating with key stakeholders after the project is implemented? How often will you communicate with project participants once the project is implemented? Are you using surveys to evaluate the project? Are you using chart review to evaluate the practice change? Are you using discussion groups or individual interviews? When are you measuring practice changes? How are you measuring a practice change? When are you measuring feasibility, usability, and satisfaction? How are you measuring feasibility, usability and satisfaction? What is the process that is used to evaluate the project frequently? What is the process you will use to communicate ongoing changes to the project to the stakeholders as the project is being implemented?  How often will you communicate ongoing changes to the project to stakeholders once the project is being implemented? What are the steps you will use to evaluate your project? What are the expected outcomes of project? "[Paste the text you want evaluated here.]"
 
 ```
 
@@ -131,7 +129,7 @@ Feasibility- Did the project provide sufficient value to address the problem? Is
 Usability- How useable is the intervention/project? Describe the facilitators and barriers of the project. What is the success rate? Whether users can perform the intervention, the time the intervention may take to complete and the completion rate, the error rate?  If they did not complete the intervention, how much did they complete?  What measures are you using to signal that the intervention is not working?  How will you measure if data collection tools are fully/partially filled out (missing data) or if everyone used the same pre/post-test –duplicate data? Are there steps in place to determine if data are entered correctly?  Satisfaction- were the users satisfied with the intervention, or did they still recommend changes?  If you developed a survey to assess satisfaction- how did you verify it (e.g., content experts, clinicians, families?  Did you conduct stakeholder interviews to address the satisfaction of the project or intervention? 
 
 ```
-
+How well does the following text discuss each of these elements? Are the surveys/instruments/questionnaires used to measure a practice or organization change described? What are the names of the surveys/instruments/questionnaires? How many items are in the surveys/instruments/questionnaires? What is the surveys/instruments/questionnaires scoring format? How are the surveys/instruments/questionnaires scored? What is the measure used to describe the implementation process? How will the project assessment, education, and implementation be measured? What qualitative data will be collected? Will there be open-ended questions? 
 
 ```
 
