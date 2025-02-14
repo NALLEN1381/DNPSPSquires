@@ -89,7 +89,7 @@ How well does the following text discuss each of these elements? What is the pur
 
 Please evaluate the Context section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
 Squires Guidelines 2.0 criteria: Contextual elements considered important at the outset of introducing the intervention(s)
-Course Specific Criteria: Describe where the project will take place. Describe the setting of the project area (rural/urban), the location (clinic, school, hospital), the population (patients, nurses, other clinical staff, NPs, PAs, physicians, parents), the size of the population, or other items important to know before describing your intervention. Consider how your project may impact health equity; does it address certain social determinants of health (SDoH) or vulnerable/underserved populations, etc.
+Course Specific Criteria: Describe where the project will take place. Describe the setting of the project area (rural/urban), the location (clinic, school, hospital), the population (patients, nurses, other clinical staff, NPs, PAs, physicians, parents), the size of the population, or other items important to know before describing your intervention. Does your project impact health equity; does the project address certain social determinants of health (SDoH) or vulnerable/underserved populations, etc.?
 Describe the leadership (nursing, physician). Describe whether or not other initiatives that are closely related to or potentially competing with (or supporting) your project are taking place.
 
 
@@ -102,9 +102,7 @@ How well does the following text discuss each of these elements? What is the set
 
 Please evaluate the Intervention section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
 Squires Guidelines 2.0 criteria: Description of the intervention(s) in sufficient detail that others could reproduce it. Specifics of the team involved in the work
-Course Specific Criteria: Describe your project in enough detail for someone to reproduce it. 
-Describe the composition of the team/stakeholders doing the work; think of those helping to pull data/arrange meetings/maybe a director/project sponsor/etc. 
-Consider breaking down your study into phase one and describe what happened, then phase two, etc. 
+Course-Specific Criteria: Describe your project in enough detail for someone to reproduce it. Describe the composition of the team/stakeholders doing the work; think of those helping to pull data/arrange meetings/maybe a director/project sponsor/etc. Consider breaking down your project into phase one and describe what happened, then phase two, etc. 
 ```
 How well does the following text discuss each of these elements for each project objective? What is the name of the intervention?  What procedures, activities, or processes were used in the intervention? What materials were used for the intervention or training given to those who delivered the intervention? Who delivered the intervention? What was their expertise or background? Describe the mode of delivery of the intervention. Describe the location of where the intervention was delivered, including any necessary infrastructure. When was the intervention delivered and how often? Was the intervention tailored to any specific individuals? If so describe how. Was the intervention modified during the course of the study? If so, describe how. Describe the extent to which the intervention was delivered as planned. Here are the project objectives: "[Paste text describing each objective here.]" Here is the section text: "[Paste the text you want evaluated here.]"” 
 
@@ -112,30 +110,28 @@ How well does the following text discuss each of these elements for each project
 
 ## 9. Study of the Interventions
 
-Text goes here
+Please evaluate the Study of the Intervention section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
+Squires Guidelines 2.0 Approach chosen for assessing the impact of the intervention(s). Approach used to establish whether the observed outcomes were due to the intervention(s)
+Course-Specific Criteria: How are you evaluating your uptake of the improvement/practice change? This is your primary metric(s) to assess the changes frequently and make rapid cycle changes. For example, “data is collected frequently (every week or so) to track so rapid cycle changes can be made.” Make sure to describe frequent communication with key stakeholders after implementation. What other methods are being used to evaluate the project? (survey, chart review, discussion/interview—pre, during, and post) Evidenced-Based Quality Improvement is a flexible process, so you need to describe this process. Describe how you will communicate with your team for buy-in, addressing ongoing changes as you implement the project. Describe your participant demographics and the time you will spend with them, such as weekly, as the project is implemented. What are the steps you are going to take to evaluate your project? What are the expected outcomes?  
+
 
 ```
-How are you evaluating your uptake of the improvement/practice change? This is your primary metric(s) to assess the changes frequently and make rapid cycle changes. For example, “data is collected frequently (every week or so) to track so rapid cycle changes can be made.” Make sure to describe frequent communication with key stakeholders after implementation.
-What other methods are being used to evaluate the project? (survey, chart review, discussion/interview—pre, during, and post)
-Evidenced-Based Quality Improvement is a flexible process, so you need to describe it. Describe how you will communicate with your team for buy-in, addressing ongoing changes as you implement the project. 
-Describe your participant demographics and the time you will spend with them, such as weekly, as the project is implemented. 
-Describe the steps you are going to take to evaluate your project. 
-Describe the expected outcomes.  
+How are you evaluating the uptake of the project or the practice change? How often are you collecting data so that rapid changes can be made? How often are you communicating with key stakeholders after the project is implemented? How often will you communicate with project participants once the project is implemented? Are you using surveys to evaluate the project? Are you using chart review to evaluate the practice change? Are you using discussion groups or individual interviews? When are you measuring practice changes? How are you measuring a practice change? When are you measuring feasibility, usability, and satisfaction? How are you measuring feasibility, usability and satisfaction? What is the process that is used to evaluate the project frequently? What is the process you will use to communicate ongoing changes to the project to the stakeholders as the project is being implemented?  How often will you communicate ongoing changes to the project to stakeholders once the project is being implemented? What are the steps you will use to evaluate your project? What are the expected outcomes of project?  
 
 ```
 
 ## 10. Measures
+Please evaluate the Measures section of this doctorate of nursing practice scholarly project using the Squires 2.0 and course-specific criteria. 
 
-Text goes here
-
-```
-What surveys/instruments/questionnaires did you use?  Include surveys developed in the Appendices. 
-Describe the data collection surveys/instruments/questionnaires:  (a) how many items there are; (b) if there are sub‐scales, what their names are and how many items are in each; (c) the scoring format (e.g., True/False, Likert scale, adjectival rating scale, numerical scale); (d) the number of response alternatives; (e) whether any items are reverse‐scored; (f) in cases of numerical sub‐scales, their ranges; and (g) how the scale as a whole is scored.
-How are you going to measure the processes used in the project? 
+Squires Guidelines 2.0 Criteria:a. Measures chosen for studying processes and outcomes of the intervention(s), including rationale for choosing them, their operational definitions, and their validity and reliability. Description of the approach to the ongoing assessment of contextual elements that contributed to the success, failure, efficiency, and cost. Methods employed for assessing completeness and accuracy of data
+Course-Specific Criteria: What surveys/instruments/questionnaires did you use?  Include surveys developed in the Appendices. 
+Describe the data collection surveys/instruments/questionnaires:  (a) how many items there are; (b) if there are sub‐scales, what their names are and how many items are in each; (c) the scoring format (e.g., True/False, Likert scale, adjectival rating scale, numerical scale); (d) the number of response alternatives; (e) whether any items are reverse‐scored; (f) in cases of numerical sub‐scales, their ranges; and (g) how the scale as a whole is scored. How are you going to measure the processes used in the project? 
 Feasibility, Usability, and satisfaction are associated with the clinician's or EBQI team improvement process/practice change/results of a needs assessment.  
 Feasibility- Did the project provide sufficient value to address the problem? Is the project viable and likely to succeed? Are there resources to support the continuation of the project? Do the benefits outweigh the cost/risk? Is there an intent to continue to use this project in the future? 
-Usability- How useable is the intervention/project? Describe the facilitators and barriers of the project. What is the success rate? Whether users can perform the intervention, the time the intervention may take to complete and the completion rate, the error rate?  If they did not complete the intervention, how much did they complete?  What measures are you using to signal that the intervention is not working?  How will you measure if data collection tools are fully/partially filled out (missing data) or if everyone used the same pre/post-test –duplicate data? Are there steps in place to determine if data are entered correctly?  
-Satisfaction- were the users satisfied with the intervention, or did they still recommend changes?  If you developed a survey to assess satisfaction- how did you verify it (e.g., content experts, clinicians, families?  Did you conduct stakeholder interviews to address the satisfaction of the project or intervention?
+Usability- How useable is the intervention/project? Describe the facilitators and barriers of the project. What is the success rate? Whether users can perform the intervention, the time the intervention may take to complete and the completion rate, the error rate?  If they did not complete the intervention, how much did they complete?  What measures are you using to signal that the intervention is not working?  How will you measure if data collection tools are fully/partially filled out (missing data) or if everyone used the same pre/post-test –duplicate data? Are there steps in place to determine if data are entered correctly?  Satisfaction- were the users satisfied with the intervention, or did they still recommend changes?  If you developed a survey to assess satisfaction- how did you verify it (e.g., content experts, clinicians, families?  Did you conduct stakeholder interviews to address the satisfaction of the project or intervention? 
+
+```
+
 
 ```
 
